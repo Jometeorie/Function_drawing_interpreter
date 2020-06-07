@@ -1,0 +1,6 @@
+// 测试死循环异常
+STYLE is white
+origin is (0, 35)
+SCALE is ( 40,40)
+color is (0.5, 0.5, 0.5)
+for t from 0 to 2*pi step -0.01 draw (sin(t), cos(t))

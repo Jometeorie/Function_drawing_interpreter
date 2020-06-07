@@ -1,0 +1,18 @@
+STYLE IS DARKGRID
+ORIGIN IS (20,200)
+rot IS 0
+
+SCALE IS(40,40)
+Color is (0.2, 0.2, 0.8) // 此时为蓝色
+DOTsize IS 2
+FOR T FROM 0 TO 2*PI+PI/50 STEP PI/50 DRAW(T, sin(T))
+
+Color is (0.8, 0.2, 0.2)
+ORIGIN IS (20,240) // 此时为红色
+DOTSIZE IS 10
+FOR T FROM 0 TO 2*PI+PI/50 STEP PI/50 DRAW(T, sin(T))
+
+Color is (0.2, 0.8, 0.2)
+ORIGIN IS (20,280) // 此时为绿色
+DOTSIZE IS 50
+FOR T FROM 0 TO 2*PI+PI/50 STEP PI/50 DRAW(T, sin(T))

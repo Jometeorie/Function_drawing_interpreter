@@ -1,0 +1,3 @@
+// 颜色参数设置异常
+color is (0.5, 2, 0.5)
+for t from 0 to 2*pi step 0.01 draw (sin(t), cos(t))

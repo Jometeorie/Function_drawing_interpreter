@@ -1,0 +1,3 @@
+// style不存在异常
+Origin IS (1, 1)
+STYLE Is CAT
