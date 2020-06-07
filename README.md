@@ -14,10 +14,13 @@
 
 ## 运行和演示
 运行命令如下：
-![](https://github.com/frozenlalala/Function_drawing_interpreter/img/运行脚本.png)
+
+![image](https://github.com/frozenlalala/Function_drawing_interpreter/blob/master/img/运行脚本.png)
 
 其中，最后一行路径可以进行修改。例如这里指向的文件中的代码如下——
-![](https://github.com/frozenlalala/Function_drawing_interpreter/img/运行脚本.png)
 
-其运行后的效果图如下。
-![](https://github.com/frozenlalala/Function_drawing_interpreter/img/demo.png)
+![image](https://github.com/frozenlalala/Function_drawing_interpreter/blob/master/img/testtxt.png)
+
+其运行后的效[果图如下。
+
+![image](https://github.com/frozenlalala/Function_drawing_interpreter/blob/master/img/demo.png)
